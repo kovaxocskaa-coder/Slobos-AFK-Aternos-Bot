@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "MisztikusGalaxys2.aternos.me",
+    "port": 59180,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
